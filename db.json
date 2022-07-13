@@ -1,0 +1,25 @@
+{
+    "contatos":[
+    {
+        "id": "1",
+        "nome": "Bill Gates",
+        "fone": "12345-6789",
+        "email": "bill@email.com"
+    },
+
+    {
+        "id": "2",
+        "nome": "Steve Jobs",
+        "fone": "98765-4321",
+        "email": "steve@email.com"
+    },
+
+    {
+        "id": "3",
+        "nome": "Linus Torvalds",
+        "fone": "01010-1010",
+        "email": "linus@email.com"
+    }
+    
+    ]
+}
